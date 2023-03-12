@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496759727980",
+    "firebase_url": "https://nodemcu-6216c-default-rtdb.firebaseio.com",
+    "project_id": "nodemcu-6216c",
+    "storage_bucket": "nodemcu-6216c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496759727980:android:dae3dc1d5a7b0b00783549",
+        "android_client_info": {
+          "package_name": "com.example.smartpetfeeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496759727980-1eteth4hdpdd2m7dkuglrg73cvuqm7d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQt09nTHPepl_uHJ-X6Y8BywWHHZm20w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496759727980-1eteth4hdpdd2m7dkuglrg73cvuqm7d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

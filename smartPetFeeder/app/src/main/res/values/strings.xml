@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">smartPetFeeder</string>
+    <string name="turn_on_bluetooth">Turn On BLuetooth</string>
+    <string name="set_feed_time">Set Feed Time</string>
+    <string name="automatic_pet_feeder">Automatic Pet Feeder</string>
+    <string name="set_feeding_time">Set Feeding Time</string>
+    <string name="upload">Upload</string>
+    <string name="meal_time_1">Meal TIme 1</string>
+    <string name="meal_time_2">Meal Time 2</string>
+    <string name="set_feed_time2">Set Feed TIme</string>
+    <string name="set_feed_time1">Set Feed TIme</string>
+    <string name="control_pet_feeder">Control pet feeder</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="open_pet_feeder_for_5_seconds">Open pet feeder for 5 seconds</string>
+    <string name="open_pet_feeder_for_10_seconds">Open pet feeder for 10 seconds</string>
+    <string name="todo">TODO</string>
+</resources>
